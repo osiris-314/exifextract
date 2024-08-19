@@ -1,4 +1,4 @@
-Extract Exif Meta data from images
+# Extract Exif Meta data from images
 
 usage: python exifextract.py file_name_here
 
